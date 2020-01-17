@@ -20,3 +20,27 @@
 .App-link {
   color: #09d3ac;
 }
+
+/* .out-frame{
+  margin-left: 10px;
+  margin-right: 10px;
+} */
+
+header, main, nav{
+  height: 4rem;
+  /* background-color: blanchedalmond; */
+  /* padding-left: 0.5rem;
+  padding-right: 0.5rem; */
+  padding: 0.5rem;
+  border-radius: 8px;
+}
+
+header, main{
+  background-color: blanchedalmond;
+}
+/* nav{
+  background-color: cornsilk;
+} */
+.continut{
+  display: flex;
+}
